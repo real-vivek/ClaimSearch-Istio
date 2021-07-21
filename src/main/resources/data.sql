@@ -1,0 +1,3 @@
+insert into CLAIM_INFO(CLAIM_ID,CLAIM_NUMBER,CLAIM_TYPE) values (1,100,'House');
+insert into CLAIM_INFO(CLAIM_ID,CLAIM_NUMBER,CLAIM_TYPE) values (2,200,'Life');
+insert into CLAIM_INFO(CLAIM_ID,CLAIM_NUMBER,CLAIM_TYPE) values (3,300,'Fire');
